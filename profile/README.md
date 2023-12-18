@@ -1,3 +1,10 @@
 <pre>
   <b>Meta-inference</b> is a conclusion reached on the basis of all possible methods of inference.
 </pre>
+
+[meta-reasoning](https://github.com/meta-reasoning) - reasoning about methods of reasoning.<br>
+[meta-induction](https://github.com/meta-induction) - inductive conclusions about the methods of induction.<br>
+[meta-deduction](https://github.com/meta-deduction) - deductive conclusions about the methods of induction.<br>
+[meta-abduction](https://github.com/meta-abduction) - abductive reasoning about the methods of abduction.<br>
+[meta-hypothesis](https://github.com/meta-hypothesis) - hypothetic reasoning about the methods of hypothesising.<br>
+[meta-speculation](https://github.com/meta-speculation) - speculative reasoning about the methods of speculation.
