@@ -7,4 +7,4 @@
 [meta-deduction](https://github.com/meta-deduction)&emsp;&nbsp;- deductive conclusions about the methods of deduction.<br>
 [meta-abduction](https://github.com/meta-abduction)&emsp;&nbsp;- abductive reasoning about the methods of abduction.<br>
 [meta-hypothesis](https://github.com/meta-hypothesis)&ensp;&nbsp;- hypothetic reasoning about the methods of hypothesising.<br>
-[meta-speculation](https://github.com/meta-speculation)&nbsp;- speculative reasoning about the methods of speculation.
+[meta-speculation](https://github.com/meta-speculation)&nbsp;&nbsp;- speculative reasoning about the methods of speculation.
